@@ -22,7 +22,7 @@ Installation
 There are multiple ways:
 
 1. Clone this git repo into your base Django project folder
-2. Install with pip ``git+https://github.com/BrnoPCmaniak/django-floppyforms-bootstrap3@master``
+2. Install with ``pip install git+https://github.com/BrnoPCmaniak/django-floppyforms-bootstrap3@master``
 
 How To Use
 ==========
